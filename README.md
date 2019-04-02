@@ -1,7 +1,7 @@
 # sos-rotation-averaging
 Certifiably globally optimal unit quaternion rotation averaging via Sparse Bounded-degree sum of squares optimization.
 
-<img src="https://raw.githubusercontent.com/utiasSTARS/sos-rotation-averaging/master/rotation_averaging.pdf" width="500px"/>
+<img src="https://raw.githubusercontent.com/utiasSTARS/sos-rotation-averaging/master/rotation_averaging.png" width="500px"/>
 
 ## Installation and Dependencies 
 
