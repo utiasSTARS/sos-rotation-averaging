@@ -28,5 +28,11 @@ The script `matlab/results_rotation_averaging_sbsos_odom.m` shows a sample usage
 If you use any of this code in your work, please cite the [relevant publication](http://arxiv.org/abs/1904.01645): 
 
 ```bibtex
-TODO
+@article{giamou2019sparse,
+  title={Sparse Bounded Degree Sum of Squares Optimization for Certifiably Globally Optimal Rotation Averaging},
+  author={Giamou, Matthew and Maric, Filip and Peretroukhin, Valentin and Kelly, Jonathan},
+  journal={arXiv preprint arXiv:1904.01645},
+  year={2019}
+}
+
 ```
