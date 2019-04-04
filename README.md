@@ -25,7 +25,7 @@ The code for error and cost function plots appearing in our [paper]() (see below
 The script `matlab/results_rotation_averaging_sbsos_odom.m` shows a sample usage of our main contribution, the function `matlab/rotation_averaging_sbsos.m` on simulated noisy data. The script `matlab/results_rotation_averaging_sbsos_dual.m` compares our approach with an SDP-relaxation. 
 
 ## Citation
-If you use any of this code in your work, please cite the [relevant publication](): 
+If you use any of this code in your work, please cite the [relevant publication](http://arxiv.org/abs/1904.01645): 
 
 ```bibtex
 TODO
